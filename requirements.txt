@@ -1,0 +1,6 @@
+selenium==4.15.2
+webdriver-manager==4.0.1
+python-dotenv==1.0.0
+flask==3.0.0
+flask-mail==0.9.1
+pillow==10.1.0
