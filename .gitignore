@@ -18,8 +18,7 @@ dist/
 .vscode/
 .idea/
 
-# Screenshots
-screenshots/*.png
+
 
 # Logs
 *.log
