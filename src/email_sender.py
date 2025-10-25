@@ -39,7 +39,11 @@ Dear Team,
 Please find my submission for the Python (Selenium) Assignment below:
 
 1. Screenshot of Form Filled via Code:
-   - Attached as 'form_confirmation.png'
+   - Primary confirmation screenshot attached as 'form_confirmation.png'
+   - Additional detailed screenshots available in GitHub repository:
+     https://github.com/23f3002638/google-form-automation/tree/main/screenshots
+   - Includes: empty form, filled form (top/middle/bottom), and final confirmation
+
 
 2. Source Code (GitHub Repository):
    - {github_repo}
@@ -97,7 +101,7 @@ Please find my submission for the Python (Selenium) Assignment below:
    - All form fields automated including verification code
 
 4. Resume:
-   - Google Drive Link: https://drive.google.com/file/d/1ib9hvoLkRos9DqoP9SuzfCR4YDPSEwXT/view?usp=sharing
+   - Google Drive Link: https://drive.google.com/file/d/1WwSMp1mVCAT9qhhOriW47HjJb-bf3U8Z/view?usp=sharing
 
 5. Links to Past Projects/Work Samples:
 """
@@ -122,6 +126,8 @@ Technical Stack Used:
 - webdriver-manager 4.0.1
 - python-dotenv 1.0.0
 - Chrome Browser
+
+
 
 Thank you for considering my submission. I look forward to hearing from you.
 
