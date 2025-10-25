@@ -148,5 +148,5 @@ Created for assignment purposes - The Medius.ai
 ## 👤 Author
 
 **[Your Name]**
-- Email: your.email@gmail.com
-- GitHub: [@yourusername](https://github.com/yourusername)
+- Email: arushd2468@gmail.com
+- GitHub: [Arush Dixit ](https://github.com/23f3002638)
